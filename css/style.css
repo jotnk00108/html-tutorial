@@ -45,13 +45,8 @@ html {
   text-align: left;
 }
 
-
-
-
-
 .box2 {
   display: inline-flex;
-  
   background-color: #FFFFFF;
   flex-direction: column;
   align-items: baseline;
@@ -73,7 +68,7 @@ html {
   z-index: 10;
 }
 
-.btn-1{
+.btn1{
   text-decoration: none;
   margin-top: 40px;
   background-color: #ffffff;
@@ -87,12 +82,12 @@ html {
   margin-left: 30%;
   font-weight: 600;
 }
-.btn-1:hover{
+.btn1:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
-.btn-2{
+.btn2{
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -106,13 +101,13 @@ html {
   font-weight: 600;
 }
 
-.btn-2:hover{
+.btn2:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
 
-.btn-3{
+.btn3{
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -126,13 +121,13 @@ html {
   font-weight: 600;
 }
 
-.btn-3:hover{
+.btn3:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
 
-.btn-4{
+.btn4{
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -146,13 +141,13 @@ html {
   font-weight: 600;
 }
 
-.btn-4:hover{
+.btn4:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
 
-.btn-5{
+.btn5{
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -166,12 +161,12 @@ html {
   font-weight: 600;
 }
 
-.btn-5:hover{
+.btn5:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
-.btn-6{
+.btn6{
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -185,12 +180,12 @@ html {
   font-weight: 600;
 }
 
-.btn-6:hover{
+.btn6:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
-.btn-7 {
+.btn7 {
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -204,13 +199,13 @@ html {
   font-weight: 600;
 }
 
-.btn-7:hover{
+.btn7:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
 
-.btn-8 {
+.btn8 {
   text-decoration: none;
   background-color: #ffffff;
   border-radius: 32px;
@@ -224,13 +219,13 @@ html {
   font-weight: 600;
 }
 
-.btn-8:hover{
+.btn8:hover{
   color: #1DA1F2;
   background-color: #00afef21;
   transition: all 0.2s;
 }
 
-.btn-9{
+.btn9{
   text-decoration: none;
   background-color: #1DA1F2;
   border-radius: 32px;
@@ -256,11 +251,11 @@ html {
   border: 0px solid
   
 }
-.newslist02 {
+.newslist2 {
     width: 300px;
     
 }
-.newslist02 li {
+.newslist2 li {
   font-size: 15px;
   background-color: rgba(153, 153, 153, 0.11);
   list-style: none;
@@ -271,20 +266,20 @@ html {
 
 
 
-.newslist02 li a {
+.newslist2 li a {
   text-decoration: none;
   text-align: left;
   margin:10px;
   color:#000000;
 }
 
-.newslist02 li a p {
+.newslist2 li a p {
   text-decoration: none;
   text-align: left;
   color:#1DA1F2;
 }
 
-.newslist02 li:first-child{
+.newslist2 li:first-child{
   padding-top: 5px;
   padding-bottom: 5px;
   border-top-left-radius: 32px;
@@ -294,7 +289,7 @@ html {
   
 }
 
-.newslist02 li:last-child{
+.newslist2 li:last-child{
   padding-top: -5px;
   padding-bottom: -5px;
   border-bottom-left-radius: 32px;
@@ -303,23 +298,23 @@ html {
 
 
 
-.newslist02 li:hover{
+.newslist2 li:hover{
   background-color: rgba(14, 14, 14, 0.11);
   transition: all 0.2s;
 }
 
-.newslist02 li:first-child:hover{
+.newslist2 li:first-child:hover{
 background-color: rgba(153, 153, 153, 0.11);
 }
 
 
 
 
-.newslist03 {
+.newslist3 {
   width: 300px;
   
 }
-.newslist03 li {
+.newslist3 li {
   font-size: 15px;
   background-color: rgba(153, 153, 153, 0.11);
   list-style: none;
@@ -330,7 +325,7 @@ background-color: rgba(153, 153, 153, 0.11);
 
 
 
-.newslist03 li a {
+.newslist3 li a {
   
   text-decoration: none;
   text-align: left;
@@ -338,14 +333,14 @@ background-color: rgba(153, 153, 153, 0.11);
   color:#000000;
 }
 
-.newslist03 li a p {
+.newslist3 li a p {
   
   text-decoration: none;
   text-align: left;
   color:#1DA1F2;
 }
 
-.newslist03 li:first-child{
+.newslist3 li:first-child{
   padding-top: 5px;
   padding-bottom: 5px;
   border-top-left-radius: 32px;
@@ -355,7 +350,7 @@ background-color: rgba(153, 153, 153, 0.11);
   
 }
 
-.newslist03 li:last-child{
+.newslist3 li:last-child{
   padding-top: -5px;
   padding-bottom: -5px;
   border-bottom-left-radius: 32px;
@@ -372,23 +367,23 @@ background:rgba(179, 179, 179, 0.192);
   margin: 10px;
 }
 
-.newslist03 li:hover{
+.newslist3 li:hover{
   background-color: rgba(14, 14, 14, 0.11);
   transition: all 0.2s;
   
 }
 
-.newslist03 li:first-child:hover{
+.newslist3 li:first-child:hover{
   background-color: rgba(153, 153, 153, 0.11);
   text-decoration: none;
 }
 
-.newslist03 li:last-child:hover{
+.newslist3 li:last-child:hover{
   text-decoration: none;
   }
 
 
-.newslist01 {
+.newslist1 {
   width: 90%;
   top: 500px;
   text-decoration: none;
@@ -397,7 +392,7 @@ background:rgba(179, 179, 179, 0.192);
   
 
 }
-.newslist01 li {
+.newslist1 li {
   font-size: 20px;
   display: flex;
   flex-direction: column;
@@ -409,7 +404,7 @@ background:rgba(179, 179, 179, 0.192);
 }
 
 
-.newslist01 li p {
+.newslist1 li p {
   
   margin-left: 30px;
   font-weight: 100;
@@ -460,12 +455,12 @@ background:rgba(179, 179, 179, 0.192);
 
 
 
-.newslist01 li:hover{
+.newslist1 li:hover{
   background-color: rgba(218, 218, 218, 0.11);
   transition: all 0.2s;
 }
 
-.newslist01 a:hover{
+.newslist1 a:hover{
   text-decoration: underline;
 }
 
